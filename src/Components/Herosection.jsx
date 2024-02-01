@@ -10,7 +10,7 @@ const Herosection = ({name,image}) => {
                 <div className="section-hero-data">
                 <p className="hero-top-data">This is Me: </p>              
                 <p className="hero-heading">{name} </p>
-                <p className="hero-para">Hello guys!!! <br/> I'm SONU ROY <br/>A MERN stack developer a Android Developer and also a Ethical Hacker.</p>
+                <p className="hero-para">Hello guys!!! <br/> I'm SONU ROY <br/>A Full stack developer.</p>
                 </div>
                 <Button className="btn-Hire-Me"> 
                     <NavLink to="./Contact">Hire Me</NavLink>
