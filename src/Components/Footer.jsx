@@ -113,6 +113,7 @@ footer {
         font-size: 1.5rem;
         position: relative;
         cursor: pointer;
+        &:hover { background-color: lightblue; }
       }
     }
   }
