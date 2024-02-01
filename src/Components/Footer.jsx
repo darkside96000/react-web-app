@@ -14,7 +14,7 @@ const Footer = () => {
             <h3 className="aa" >Talk to us today</h3>
           </div>
            <div className="contact-short-btn">
-            <NavLink to="/Home">
+            <NavLink to="/contact">
               <Button>Get Started</Button>
             </NavLink>
           </div>
